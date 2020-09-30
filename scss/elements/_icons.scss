@@ -1,0 +1,13 @@
+/* ==========================================================================
+   Circle Icons
+   ========================================================================== */
+
+ul.circle-icons {
+  li {
+    display: inline-block; margin-right: 8px;
+    a {
+      display: inline-block; width: 40px; height: 40px; background: $link-color; color: $primary-color; text-align: center; border-radius: 50%; font-size: 20px; line-height: 43px; text-decoration: none;
+      &:hover, &:focus { background: darken($link-color,15%); }
+    }
+  }
+}

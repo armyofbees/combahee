@@ -1,0 +1,215 @@
+<?php
+  $military = "current-menu-item";
+  $rice = "";
+  $taverns = '';
+  $roads = '';
+  $title = "Combahee River Ferry - Military Actions";
+
+  include_once 'header.php'; ?>
+
+<section class="content intro">
+  <div class="container">
+    <p>Since the founding of the Carolina Colony, Combahee Ferry was a strategic military crossing.  Colonial leaders understood the need to secure the southern portion of the colony to protect their interests in Charleston.  During the American Revolution, patriot forces under General William Moultrie used it as a gathering place for troops and supplies. After the Confederates were soundly defeated by the United States Navy at Port Royal Sound in November 1861, Robert E. Lee decided to focus efforts on defending interior positions such as the Combahee River crossing and the Charleston & Savannah Railroad.  In 1863, the crossing was the site of a raid that freed over 700 enslaved people in a single night, one of the largest emancipation events of the Civil War.</p>
+  </div>
+</section>
+
+<section class="content style1">
+  <div class="container">
+    <figure class="img">
+      <a class="image-popup-no-margins" href="img/military-actions/infantry-continental-army.jpg">
+        <img src="img/military-actions/infantry-continental-army.jpg" alt="infantry-continental-army" width="861" height="981" /></a>
+      <figcaption><span class="italic">Image Courtesy Library of Congress, Washington, D.C.</span></figcaption>
+    </figure>
+    <div class="text">
+      <header class="section-header">
+        <h2>American Revolution</h2>
+        <p>Combahee Ferry was an important crossing during the American Revolution.  In 1779 British forces under General Augustine Prevost skirmished in the area during their march through the Lowcountry, crossing at Combahee Ferry and proceeding north on what is now U.S. Highway 17.
+</p><p>General William Moultrie used it as a gathering place for troops and supplies. In 1782 American forces under Brigadier General Gist arrived at the Combahee River and found a force of 300 British regulars and 200 hundred Tory partisans.  The British were there to gather supplies, carry off rice and slaves, and burn rice barns. Gist ordered one detachment of men to cross the river and challenge the British. Another detachment under John Lauren went to the mouth of the river to intercept retreating British soldiers at Tar Bluff.  Outnumbered, the Americans were forced to fall back and the British escaped to Port Royal.
+</p>
+      </header>
+      <div class="fyi">
+        <h3>Did you know?</h3>
+        <ul class="fyi">
+          <li>General William Moultrie requested that large flats be stationed on the Combahee River "to facilitate the marching of troops through those parts of the country.</li>
+          <li>Beaufort was occupied by British forces from 1779 until 1782.</li>
+          <li>British forces at Combahee Ferry included the 84th Regiment of Foot (Royal Highland Emigrants), the first highland regiment raised in the Americas.</li>
+        </ul>
+      </div>
+    </div>
+    <div class="artifacts">
+      <h3>Patriots and Loyalists</h3>
+        <ul class="artifacts col-4">
+          <li>
+            <figure>
+              <a class="img image-popup-no-margins" href="img/military-actions/William_Moultrie_portrait-full.jpg" style="background: url('img/military-actions/artifacts/William_Moultrie_portrait.jpg') top/cover no-repeat;"></a>
+              <figcaption>General William Moultrie. <span class="italic">Image courtesy wikipedia.com.</span></figcaption>
+            </figure>
+          </li>
+          <li>
+            <figure>
+              <a class="img image-popup-no-margins" href="img/military-actions/GeorgePrevost-full.jpg" style="background: url('img/military-actions/artifacts/GeorgePrevost.jpg') top/cover no-repeat;"></a>
+              <figcaption>General Augustine Prevost. <span class="italic">Image courtesy wikipedia.com.</span></figcaption>
+            </figure>
+          </li>
+          <li>
+            <figure>
+              <a class="img image-popup-no-margins" href="img/military-actions/200px-MordecaiGist.jpg" style="background: url('img/military-actions/artifacts/200px-MordecaiGist.jpg') top/cover no-repeat;"></a>
+              <figcaption>Brigadier General Mordecai Gist. <span class="italic">Image courtesy wikipedia.com.</span></figcaption>
+            </figure>
+          </li>
+          <li>
+            <figure>
+              <a class="img image-popup-no-margins" href="img/military-actions/84RegimentNYLibrarry-full.png" style="background: url('img/military-actions/artifacts/84RegimentNYLibrarry.jpg') top/cover no-repeat;"></a>
+              <figcaption>84th Regiment of Foot (Royal Highland Emigrants). <span class="italic">Image courtesy wikipedia.com.</span></figcaption>
+            </figure>
+          </li>
+        </ul>
+      </div>
+  </div>
+</section>
+
+<section class="content divider">
+  <div class="container">
+    <blockquote>
+      <p>"They all come running to the gun boats through the rice fields just like a procession. Thinks I, these here puts me in mind of the children of Israel coming out of Egypt..."</p>
+      <cite>&mdash;Harriet Tubman Memoir</cite>
+    </blockquote>
+  </div>
+</section>
+
+<section class="content style1">
+  <div class="container">
+    <figure class="img">
+      <a class="image-popup-no-margins" href="img/military-actions/CFHD%20191%3D%20Combahee%20Raid%20LOC05099u.jpg">
+      <img src="img/military-actions/CFHD%20191%3D%20Combahee%20Raid%20LOC05099u.jpg" alt="CFHD%20191%3D%20Combahee%20Raid%20LOC05099u" width="1167" height="868" /></a>
+      <figcaption>Union forces raid plantations on the Combahee River. <span class="italic">Image courtesy Library of Congress, Washington, D.C.</span></figcaption>
+    </figure>
+    <div class="text">
+      <header class="section-header">
+        <h2>The Civil War and Raid on the Combahee</h2>
+        <p>On June 1st and 2nd, 1863, Combahee Ferry was the site of a major Union raid to destroy plantations along the river and free enslaved people. The raid was conducted by the colored troops of the 2nd South Carolina Volunteer Infantry (SCVI) and led by Colonel James Montgomery. The three Union gunboats that carried Union forces up the Combahee River were accompanied by the famous underground railroad leader, Harriet Tubman. On June 2 Colonel Montgomery sent 300 men ashore near Combahee Ferry to seize food and supplies, burn plantation buildings and rice stores, free slaves, and destroy the Confederate pontoon bridge over the river.  Confederate soldiers arrived too late to stop the raid.</p>
+
+        <p>Confederate earthworks are still present in the Combahee Ferry Historic District.  Archaeologists mapped an earthen embankment on the Colleton side of the river, and 1,400 feet of rifle trench and a multiple gun battery that included an earthen embankment, a gun platform, a bomb shelter, and a moat on the Beaufort side. Underwater archaeologists found a pontoon boat used to support a bridge in the Combahee River. They recorded its dimensions to learn more about how it was constructed.
+</p>
+        <blockquote>
+          <p>"Col. Montgomery and his gallant band of 300 black soldiers, under the guidance of a black woman dashed into the enemy’s country, struck a bold and effective blow, destroying millions of dollars-worth of commissary stores, cotton and lordly dwellings, and striking terror into the heart of rebeldom, brought off near 800 slaves and thousands of dollars-worth of property…the Colonel was followed by a speech from the black woman, who led the raid and under whose inspiration it was originated and conducted. For sound sense and real native eloquence, her address would do honor to any man, and it created a great sensation.</p>
+<cite>&mdash;The Commonwealth, July 10, 1863</cite>
+        </blockquote>
+      </header>
+      <div class="fyi">
+        <h3>Did you know?</h3>
+        <ul class="fyi">
+          <li>During secret trips to reconnoiter Confederate positions at Combahee Ferry, Harriet Tubman spread the word that freedom was coming.</li>
+          <li>When the gunships sounded their whistles, over 700 enslaved people fled to the boats and escaped.</li>
+          <li>The Combahee River Raid may have been the largest single emancipation event of the war.</li>
+        </ul>
+      </div>
+     </div>
+     <div class="artifacts">
+       <h3>Raid on the Combahee Ferry</h3>
+        <ul class="artifacts col-4">
+          <li>
+            <figure>
+              <a class="img image-popup-no-margins" href="img/military-actions/artifacts/harriet-tubman.jpg" style="background: url('img/military-actions/artifacts/harriet-tubman.jpg') top/cover no-repeat;"></a>
+              <figcaption>Harriet Tubman <span class="italic">Library of Congress.</span></figcaption>
+            </figure>
+          </li>
+          <li>
+            <figure>
+              <a class="img image-popup-no-margins" href="img/military-actions/CFHD%2032a%3D%20james-montgomery.jpg" style="background: url('img/military-actions/artifacts/CFHD%2032a%3D%20james-montgomery.jpg') top/cover no-repeat;"></a>
+              <figcaption>Colonel James Montgomery <span class="italic">Library of Congress.</span></figcaption>
+            </figure>
+          </li>
+          <li>
+            <figure>
+              <a class="img image-popup-no-margins" href="img/military-actions/CFHD%20190%3D%20Coosaw%20Ferry%20pontoon%20wharf-full.jpg" style="background: url('img/military-actions/artifacts/CFHD%20190%3D%20Coosaw%20Ferry%20pontoon%20wharf.jpg') top/cover no-repeat;"></a>
+              <figcaption>A Civil War pontoon bridge like the one at Combahee Ferry. <span class="italic">Library of Congress.</span></figcaption>
+            </figure>
+          </li>
+          <li>
+            <figure>
+              <a class="img image-popup-no-margins" href="img/military-actions/artifacts/pontoon.jpg" style="background: url('img/military-actions/artifacts/pontoon.jpg') top/cover no-repeat;"></a>
+              <figcaption>An assembled pontoon. <span class="italic">Library of Congress.</span></figcaption>
+            </figure>
+          </li>
+        </ul>
+    </div>
+  </div>
+</section>
+
+<section class="content divider">
+  <div class="container">
+    <h2>Harriet Tubman</h2>
+    <ul class="date">
+      <li><span class="year">1820</span> Harriet Tubman is born into slavery in Maryland. </li>
+      <li><span class="year">1849</span> Harriet Tubman escapes to freedom in Philadelphia with the help of the Underground Railroad.</li>
+      <li><span class="year">1862</span> Harriet Tubman joins Union forces at Hilton Head Island to work as a cook, nurse, and armed scout and spy.</li>
+    </ul>
+  </div>
+</section>
+
+<section class="content style3">
+  <div class="container">
+    <header class="section-header">
+      <h2>Citizenship Through Service</h2>
+      <p>The Confiscation Acts passed in 1861 and 1862 gave Union military commanders the authority to recruit slaves liberated in rebel territory. The Union army gave them non-combat jobs to perform. On January 1st, 1863 the Emancipation Proclamation opened the door to combat service for Freedmen in segregated regiments led by white officers. By the end of the war, nearly 200,000 African Americans, many of whom were former slaves, served in over 100 regiments.  Nearly 40,000 African American soldiers died during the war.</p>
+      <p>Wally Garret and James Shepard were freed the night of the Combahee River raid.  They joined the 2nd SC Volunteers and served until the end of the war.  James Shepard returned to Newport and worked as a paid laborer. He died in 1898. Today both men are buried in the cemetery located within the CFHD.</p>
+    </header>
+    <blockquote>
+      <p>"He who fights the battles of America may claim America as his country and have that claim respected."</p>
+      <cite>&mdash;Fredrick Douglass, April 1863</cite>
+    </blockquote>
+    <ul class="dates small-dates">
+      <li>
+        <a class="img image-popup-no-margins" href="img/military-actions/dates/1st-sc-uscv.png" style="background: url('img/military-actions/dates/1st-sc-uscv.png') top/cover no-repeat;"></a>
+        <div class="text">
+          <h3>1st SC Volunteer Infantry</h3>
+          <p>In the summer of 1862, General Rufus Saxton, Military Governor at Beaufort, recruited Freedmen for the 1st SCVI (later 33rd U.S. Colored Troops). Colonel Thomas Higginson arrived on Hilton Head in February 1863 to serve as regimental commander.</p>
+        </div>
+      </li>
+      <li>
+        <a class="img image-popup-no-margins" href="img/military-actions/HH%20109%3D%20Frank%20Leslie%20illustrations_Page_16.jpg" style="background: url('img/military-actions/dates/HH%20109%3D%20Frank%20Leslie%20illustrations_Page_16.jpg') top/cover no-repeat;"></a>
+        <div class="text">
+          <h3>2nd SC Volunteer Infantry</h3>
+          <p>On May 22, 1863 Colonel James Montgomery mustered Freedmen from Hilton Head and Beaufort into the 2nd SCVI (later 34th U.S. Colored Troops). Ten days later they participated in a raid on Combahee River plantations that freed over 700 slaves in a single night.</p>
+        </div>
+      </li>
+      <li>
+        <a class="img image-popup-no-margins" href="img/military-actions/dates/recruiting.jpg" style="background: url('img/military-actions/dates/recruiting.jpg') top/cover no-repeat;"></a>
+        <div class="text">
+          <h3>3rd SC Volunteer Infantry</h3>
+          <p>After the Combahee River raid, Harriet Tubman took 100 freed slaves to the recruiting office on Hilton Head where they enlisted in the 3rd SCVI. In 1864 the regiment joined the 4th SCVI to form the 21st U.S. Colored Troops.</p>
+        </div>
+      </li>
+    </ul>
+    <h3>U.S. Colored Troops</h3>
+    <ul class="artifacts col-4">
+      <li>
+        <figure>
+          <a class="img image-popup-no-margins" href="img/military-actions/artifacts/CFHD%2040%3D%20Soldier%20103rd.png" style="background: url('img/military-actions/artifacts/CFHD%2040%3D%20Soldier%20103rd.png') top/cover no-repeat;"></a>
+          <figcaption>Unknown African American Soldier. <span class="italic">Image courtesy Library of Congress.</span></figcaption>
+        </figure>
+      </li>
+      <li>
+        <figure>
+          <a class="img image-popup-no-margins" href="img/military-actions/artifacts/CFHD%20192%3D%20%20Wally%20Garrett.jpg" style="background: url('img/military-actions/artifacts/CFHD%20192%3D%20%20Wally%20Garrett.jpg')  top/cover no-repeat;"></a>
+          <figcaption>Gravestone of Wally Garret.</figcaption>
+        </figure>
+      </li>
+      <li>
+        <figure>
+          <a class="img image-popup-no-margins" href="img/military-actions/artifacts/jas-sheppard.jpg" style="background: url('img/military-actions/artifacts/jas-sheppard.jpg') top/cover no-repeat;"></a>
+          <figcaption>Gravestone of James Shepard.</figcaption>
+        </figure>
+      </li>
+      <li>
+        <figure>
+          <a class="img image-popup-no-margins" href="img/military-actions/artifacts/harps.jpg" style="background: url('img/military-actions/artifacts/harps.jpg') top/cover no-repeat;"></a>
+          <figcaption>Civil War era mouth harps found at CFHD.</figcaption>
+        </figure>
+      </li>
+    </ul>
+  </div>
+</section>
+
+<?php   include_once 'footer.php'; ?>

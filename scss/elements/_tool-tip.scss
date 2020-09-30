@@ -1,0 +1,33 @@
+#tooltip-templates {
+  display: none;
+}
+
+div.tip-content {
+  color: $dark-color;
+  > img { float: right; max-width: 150px; margin-left: 15px; margin-bottom: 15px; }
+  h3,
+  p { padding-top: 0; @include font-size }
+  p { @include s_reg; @include font-size(1.6,2); }
+}
+
+div.tooltipster-base.tooltipster-sidetip.custom {
+  max-width: 500px;
+  div.tooltipster-box {
+    border:2px solid $light-gray; background-color: #fff; border-radius: 6px;
+    div.tooltipster-content {
+      padding: 15px 20px;
+    }
+  }
+  div.tooltipster-arrow {
+//     div.tooltipster-arrow-border { border-top-color: $light-gray; }
+//     div.tooltipster-arrow-background { border-right-color: #FFF; }
+    
+  }
+  &.tooltipster-top {
+    div.tooltipster-arrow {
+      bottom: 0px;
+    }
+    div.tooltipster-arrow-border {  border-top-color: $light-gray; }
+    div.tooltipster-arrow-background { top: -2px; border-top-color: #FFF; }
+  }
+}
